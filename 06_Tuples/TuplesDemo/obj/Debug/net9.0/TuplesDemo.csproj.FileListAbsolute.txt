@@ -1,0 +1,15 @@
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/obj/Debug/net9.0/TuplesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/obj/Debug/net9.0/TuplesDemo.AssemblyInfoInputs.cache
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/obj/Debug/net9.0/TuplesDemo.AssemblyInfo.cs
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/obj/Debug/net9.0/TuplesDemo.csproj.CoreCompileInputs.cache
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/obj/Debug/net9.0/TuplesDemo.sourcelink.json
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/bin/Debug/net9.0/TuplesDemo
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/bin/Debug/net9.0/TuplesDemo.deps.json
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/bin/Debug/net9.0/TuplesDemo.runtimeconfig.json
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/bin/Debug/net9.0/TuplesDemo.dll
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/bin/Debug/net9.0/TuplesDemo.pdb
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/obj/Debug/net9.0/TuplesDemo.dll
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/obj/Debug/net9.0/refint/TuplesDemo.dll
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/obj/Debug/net9.0/TuplesDemo.pdb
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/obj/Debug/net9.0/TuplesDemo.genruntimeconfig.cache
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/obj/Debug/net9.0/ref/TuplesDemo.dll

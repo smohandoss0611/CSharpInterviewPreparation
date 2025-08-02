@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/02_AsyncAwaitDemo/AsyncAwaitDemo/AsyncAwaitDemo.csproj": {}
+    "/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/LINQDemo.csproj": {}
   },
   "projects": {
-    "/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/02_AsyncAwaitDemo/AsyncAwaitDemo/AsyncAwaitDemo.csproj": {
+    "/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/LINQDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/02_AsyncAwaitDemo/AsyncAwaitDemo/AsyncAwaitDemo.csproj",
-        "projectName": "AsyncAwaitDemo",
-        "projectPath": "/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/02_AsyncAwaitDemo/AsyncAwaitDemo/AsyncAwaitDemo.csproj",
+        "projectUniqueName": "/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/LINQDemo.csproj",
+        "projectName": "LINQDemo",
+        "projectPath": "/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/LINQDemo.csproj",
         "packagesPath": "/Users/smohandoss/.nuget/packages/",
-        "outputPath": "/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/02_AsyncAwaitDemo/AsyncAwaitDemo/obj/",
+        "outputPath": "/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/smohandoss/.nuget/NuGet/NuGet.Config"

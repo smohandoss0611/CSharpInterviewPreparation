@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6G6XkZSUT6c=",
+  "success": true,
+  "projectFilePath": "/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/06_Tuples/TuplesDemo/TuplesDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/smohandoss/.nuget/packages/system.valuetuple/4.6.1/system.valuetuple.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

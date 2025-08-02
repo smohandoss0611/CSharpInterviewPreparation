@@ -1,0 +1,15 @@
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/obj/Debug/net9.0/LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/obj/Debug/net9.0/LINQDemo.AssemblyInfoInputs.cache
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/obj/Debug/net9.0/LINQDemo.AssemblyInfo.cs
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/obj/Debug/net9.0/LINQDemo.csproj.CoreCompileInputs.cache
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/obj/Debug/net9.0/LINQDemo.sourcelink.json
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/bin/Debug/net9.0/LINQDemo
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/bin/Debug/net9.0/LINQDemo.deps.json
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/bin/Debug/net9.0/LINQDemo.runtimeconfig.json
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/bin/Debug/net9.0/LINQDemo.dll
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/bin/Debug/net9.0/LINQDemo.pdb
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/obj/Debug/net9.0/LINQDemo.dll
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/obj/Debug/net9.0/refint/LINQDemo.dll
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/obj/Debug/net9.0/LINQDemo.pdb
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/obj/Debug/net9.0/LINQDemo.genruntimeconfig.cache
+/Users/smohandoss/Documents/GitHub/CSharpInterviewPreparation/08_LINQ/LINQDemo/obj/Debug/net9.0/ref/LINQDemo.dll
